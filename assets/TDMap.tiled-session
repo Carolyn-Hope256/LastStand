@@ -1,0 +1,73 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "LastStand.tmj",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#towerDefense_tilesheet": {
+            "scaleInDock": 1
+        },
+        "LastStand.tmj": {
+            "scale": 0.6836,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1549.8829724985371,
+                "y": 476.1556465769455
+            }
+        },
+        "LastStand.tmj#towerDefense_tilesheet": {
+            "scaleInDock": 1
+        },
+        "LastStand.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 679.5,
+                "y": 732.5
+            }
+        },
+        "LastStand.tmx#towerDefense_tilesheet": {
+            "scaleInDock": 1
+        },
+        "three-farmhouses.tmj": {
+            "scale": 1.97421875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 319.8733676296003,
+                "y": 199.82588049070043
+            }
+        },
+        "three-farmhouses.tmj#kenney-tiny-town": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/hargi/Documents/School/CMPM120/LastStand/assets",
+    "last.imagePath": "C:/Users/hargi/Documents/School/CMPM120/LastStand/assets",
+    "map.height": 32,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 20,
+    "openFiles": [
+        "LastStand.tmx",
+        "LastStand.tmj",
+        "three-farmhouses.tmj"
+    ],
+    "project": "TDMap.tiled-project",
+    "recentFiles": [
+        "LastStand.tmx",
+        "three-farmhouses.tmj",
+        "LastStand.tmj"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}
